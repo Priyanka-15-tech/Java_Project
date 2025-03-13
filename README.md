@@ -1,6 +1,5 @@
 # This Java project analyzes a user-input number and determines whether it meets various mathematical properties. 
 import java.util.*;
-
 public class NumberManipulation {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
